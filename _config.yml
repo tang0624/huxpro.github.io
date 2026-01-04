@@ -1,5 +1,5 @@
 # Site settings
-title: Hux Blog
+title: Tang Blog
 SEOTitle: Tang的博客 | Hux Blog
 header-img: img/home-bg.jpg
 email: tangyongfeng24@gmail.com
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: tangpro
+zhihu_username: tangpro
+github_username: tangpro
+twitter_username: tangpro
+#facebook_username:  tangpro
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
