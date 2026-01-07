@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: tangpro
-zhihu_username: tangpro
-github_username: tangpro
-twitter_username: tangpro
+weibo_username: 
+zhihu_username: 
+github_username: tang0624
+twitter_username: TangYongFeng
 #facebook_username:  tangpro
 #linkedin_username:  firstname-lastname-idxxxx
 
